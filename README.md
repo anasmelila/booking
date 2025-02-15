@@ -73,3 +73,7 @@ Ensure you have the following installed on your system:
 -   **Default Admin Credentials:**
     -   **Email:** `admin@gmail.com`
     -   **Password:** `admin@123`
+
+## video link
+
+https://www.awesomescreenshot.com/video/36636273?key=7e03fe80bc7d8bb61184b045c8ddd2dc
